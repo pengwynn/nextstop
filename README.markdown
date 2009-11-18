@@ -40,4 +40,4 @@ Check the [API Docs](http://www.nextstop.com/api/docs/) for a full list of optio
 
 ### Copyright
 
-Copyright (c) 2009 Wynn Netherland. See LICENSE for details.
+Copyright (c) 2009 [Wynn Netherland](http://wynnnetherland.com). See LICENSE for details.
