@@ -1,0 +1,460 @@
+{
+    "status": 200,
+    "message": "",
+    "data": {
+        "start": 0,
+        "resultCount": 10,
+        "totalResults": 100,
+        "resultsList": [{
+            "website": "",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/WkKregCvans/old-monk/",
+            "name": "Old Monk",
+            "category": "where-to-eat",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/WkKregCvans/old-monk/",
+            "phone": "(214) 821-1880",
+            "address": "2847 N Henderson Ave",
+            "lat": 32.819595,
+            "lng": -96.783371000000002,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 2,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/oKsz9gEgZxg.png",
+                    "permalink": "http://www.nextstop.com/p/WkKregCvans/old-monk/?card=oKsz9gEgZxg&",
+                    "name": "Old Monk",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "dougnboston",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_PkFHSVknLSo_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/dougnboston/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/9b56d377-b52a-4598-a7e8-c516aa25cf38_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/9b56d377-b52a-4598-a7e8-c516aa25cf38_300sq",
+                    "dateCreated": "2009-04-29 03:34:09",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/t7CkieKDe8M/best-beer-bars-in-the-world/",
+                        "permalink": "http://www.nextstop.com/guide/t7CkieKDe8M/best-beer-bars-in-the-world/",
+                        "name": "Best Beer Bars in the World!!"
+                    },
+                    "originalImageSource": "http://dallas.citysearch.com/listings/highland-park/bars_pubs/71643_1686?sortField=locName_Sort&sortType=asc&firstCharacter=O",
+                    "shortText": "Nice old feel, very good beer line up and proper glassware for service.  I liked the friendly customers and service was great.",
+                    "originalImageUrl": "http://images.citysearch.net/assets/imgdb/profile/93/ee/9587630p1.jpg"
+                }
+            }
+        },
+        {
+            "website": "",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/sDpHsNtgs4c/dallas-world-aquarium/",
+            "name": "Dallas World Aquarium",
+            "category": "what-to-do",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/sDpHsNtgs4c/dallas-world-aquarium/",
+            "phone": "(214) 720-1801",
+            "address": "1801 N Griffin St",
+            "lat": 32.783295000000003,
+            "lng": -96.805195999999995,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 6,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/bjHBffBumZ4.png",
+                    "permalink": "http://www.nextstop.com/p/sDpHsNtgs4c/dallas-world-aquarium/?card=bjHBffBumZ4&",
+                    "name": "Dallas World Aquarium",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "mandi1203",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_UCJKzG1BoLc_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/mandi1203/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/94bff454-5872-4a35-be5b-8105481e1001_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/94bff454-5872-4a35-be5b-8105481e1001_300sq",
+                    "dateCreated": "2009-06-24 13:58:32",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/oKpVm9yVzHY/dfw/",
+                        "permalink": "http://www.nextstop.com/guide/oKpVm9yVzHY/dfw/",
+                        "name": "DFW"
+                    },
+                    "originalImageSource": "http://www.tripadvisor.com/ShowUserReviews-g55711-d126957-r3487540-Dallas_World_Aquarium-Dallas_Texas.html",
+                    "shortText": "This is my favorite attraction in Dallas. It is an indoor living rainforest, I think they may have one of the few captive sloths in america.",
+                    "originalImageUrl": "http://media-cdn.tripadvisor.com/media/photo-s/00/10/29/fb/dallas-world-aquarium.jpg"
+                }
+            }
+        },
+        {
+            "website": "",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/mM13piFgKd0/white-rock-lake/",
+            "name": "White Rock Lake",
+            "category": "what-to-do",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/mM13piFgKd0/white-rock-lake/",
+            "phone": "(214) 670-8740",
+            "address": "8300 Garland Rd",
+            "lat": 32.816656999999999,
+            "lng": -96.720061999999999,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 6,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/MM9b6F2L7z0.png",
+                    "permalink": "http://www.nextstop.com/p/mM13piFgKd0/white-rock-lake/?card=MM9b6F2L7z0&",
+                    "name": "White Rock Lake",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "Aeon_Flux",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_KnAyGPeWEvU_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/Aeon_Flux/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/fc5629d3-5137-41fb-b5b3-a2a3be3deb6e_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/fc5629d3-5137-41fb-b5b3-a2a3be3deb6e_300sq",
+                    "dateCreated": "2009-08-17 08:35:15",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/GajiELDQD7k/aeons-dallas-favorites-/",
+                        "permalink": "http://www.nextstop.com/guide/GajiELDQD7k/aeons-dallas-favorites-/",
+                        "name": "Aeon's Dallas favorites "
+                    },
+                    "originalImageSource": "http://www.jrcompton.com/photos/The_Birds/J/BaldEagle.html",
+                    "shortText": "Dallas' Central Park is a home to wildlife, Dallas' premiere dog park, bicycling and hiking trails, old growth forest, playgrounds, picnic facilities. ",
+                    "originalImageUrl": "http://www.jrcompton.com/photos/The_Birds/J/Jan-09-/Xreaching-bald-eagle-JR0_9447.jpg"
+                }
+            }
+        },
+        {
+            "website": "",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/9ltjQVSAOYw/twisted-root-burger-co/",
+            "name": "Twisted Root Burger Co",
+            "category": "where-to-eat",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/9ltjQVSAOYw/twisted-root-burger-co/",
+            "phone": "(214) 741-7668",
+            "address": "2615 Commerce St",
+            "lat": 32.782935999999999,
+            "lng": -96.785462999999993,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 2,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/vZayIOp_XCc.png",
+                    "permalink": "http://www.nextstop.com/p/9ltjQVSAOYw/twisted-root-burger-co/?card=vZayIOp_XCc&",
+                    "name": "Twisted Root Burger Co",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "tackleberry",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_ynBuLBupzFU_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/tackleberry/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/26813ff3-12f7-4347-b236-a4f9a103e523_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/26813ff3-12f7-4347-b236-a4f9a103e523_300sq",
+                    "dateCreated": "2009-07-25 23:11:37",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/--twpHHf7dY/great-burgers-and-fries/",
+                        "permalink": "http://www.nextstop.com/guide/--twpHHf7dY/great-burgers-and-fries/",
+                        "name": "Great burgers and fries"
+                    },
+                    "originalImageSource": "http://weekendroadtripper.com/2009/04/06/twisted-root-burger-co-richardson.aspx",
+                    "shortText": "Love the burgers at this place.  Some think they're the best in Dallas.  I'm inclined to agree.  Less a fan of the friend chips, however.",
+                    "originalImageUrl": "http://images.quickblogcast.com/102414-95260/TwistedRoot1.jpg"
+                }
+            }
+        },
+        {
+            "website": "",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/__TGq6Aa0w0/lizard-lounge/",
+            "name": "Lizard Lounge",
+            "category": "what-to-do",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/__TGq6Aa0w0/lizard-lounge/",
+            "phone": "(214) 826-4768",
+            "address": "2424 Swiss Ave",
+            "lat": 32.784793999999998,
+            "lng": -96.790267999999998,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 3,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/6FCQ-1Da7kw.png",
+                    "permalink": "http://www.nextstop.com/p/__TGq6Aa0w0/lizard-lounge/?card=6FCQ-1Da7kw&",
+                    "name": "Lizard Lounge",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "mybloodyzombie",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_wabvtQ5c9mo_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/mybloodyzombie/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/391076c4-0684-4330-bc5b-d7aba3b60469_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/391076c4-0684-4330-bc5b-d7aba3b60469_300sq",
+                    "dateCreated": "2009-06-30 16:01:51",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/BIHSbrDFnVA/the-city-of-hate/",
+                        "permalink": "http://www.nextstop.com/guide/BIHSbrDFnVA/the-city-of-hate/",
+                        "name": "THE CITY OF HATE"
+                    },
+                    "originalImageSource": "http://www.clubzone.com/c/Dallas/Nightclub/Lizard_Lounge_Dallas.html",
+                    "shortText": "used to be alright back in the day, but kinda sucks any more. they have a gotho night every sunday called The Church that's supposed to be alright",
+                    "originalImageUrl": "http://images.clubzone.com/company/images/upload/le.jpg"
+                }
+            }
+        },
+        {
+            "website": "",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/OiNywp4mCf8/dallas-zoo/",
+            "name": "Dallas Zoo",
+            "category": "what-to-do",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/OiNywp4mCf8/dallas-zoo/",
+            "phone": "(214) 670-5656",
+            "address": "650 S RL Thornton Freeway",
+            "lat": 32.744796999999998,
+            "lng": -96.812740000000005,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 1,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/v1ResUDug40.png",
+                    "permalink": "http://www.nextstop.com/p/OiNywp4mCf8/dallas-zoo/?card=v1ResUDug40&",
+                    "name": "Dallas Zoo",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "DennisJ.Ramse",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_KZK2zZTqg1c_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/KZK2zZTqg1c/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/52c8a7fd-0f72-49f6-b01b-02d70923f803_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/52c8a7fd-0f72-49f6-b01b-02d70923f803_300sq",
+                    "dateCreated": "2009-10-12 15:59:41",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/m-SLu-1JG6w/dallas-in-a-weekend/",
+                        "permalink": "http://www.nextstop.com/guide/m-SLu-1JG6w/dallas-in-a-weekend/",
+                        "name": "Dallas in a Weekend"
+                    },
+                    "originalImageSource": "http://www.virtualtourist.com/travel/North_America/United_States_of_America/Texas/Dallas-876982/Things_To_Do-Dallas-Dallas_World_Zoo-BR-1.html",
+                    "shortText": "The Dallas Zoo and The Dallas Aquarium at Fair Park manage an extensive conservation education program, particularly for adults, providing opportunities to furt",
+                    "originalImageUrl": "http://cache.virtualtourist.com/521346-Dallas_World_Zoo-Dallas.jpg"
+                }
+            }
+        },
+        {
+            "website": "http://www.cafebrazil.com",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/-v59fi0ni64/cafe-brazil/",
+            "name": "cafe brazil",
+            "category": "where-to-eat",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/-v59fi0ni64/cafe-brazil/",
+            "phone": " 214-747-2730",
+            "address": "2815 Elm St.",
+            "lat": 32.784855,
+            "lng": -96.782926000000003,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 1,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/R1eipGyDmzk.png",
+                    "permalink": "http://www.nextstop.com/p/-v59fi0ni64/cafe-brazil/?card=R1eipGyDmzk&",
+                    "name": "cafe brazil",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "mybloodyzombie",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_wabvtQ5c9mo_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/mybloodyzombie/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/b94686d4-0044-4bbb-885a-3ce13e4cc5de_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/b94686d4-0044-4bbb-885a-3ce13e4cc5de_300sq",
+                    "dateCreated": "2009-06-07 14:19:11",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/BIHSbrDFnVA/the-city-of-hate/",
+                        "permalink": "http://www.nextstop.com/guide/BIHSbrDFnVA/the-city-of-hate/",
+                        "name": "THE CITY OF HATE"
+                    },
+                    "originalImageSource": "http://www.pegasusnews.com/places/cafe-brazil-central-university/",
+                    "shortText": "one of the cooler Cafe Brazil locations in Dallas. food's alright, and the bottomless coffee is...well...bottomless",
+                    "originalImageUrl": "http://media.pegasusnews.com/img/places/CafeBrazilUniversityPark520_t520.jpg"
+                }
+            }
+        },
+        {
+            "website": "",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/apZ2tLpsBdk/sols-taco-lounge/",
+            "name": "Sol's Taco Lounge",
+            "category": "where-to-eat",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/apZ2tLpsBdk/sols-taco-lounge/",
+            "phone": "(214) 651-7657",
+            "address": "2626 Commerce St",
+            "lat": 32.782646999999997,
+            "lng": -96.785131000000007,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 1,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/sKsygGIS8tM.png",
+                    "permalink": "http://www.nextstop.com/p/apZ2tLpsBdk/sols-taco-lounge/?card=sKsygGIS8tM&",
+                    "name": "Sol's Taco Lounge",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "mybloodyzombie",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_wabvtQ5c9mo_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/mybloodyzombie/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/1b54758b-5730-41b8-8051-2197862028cb_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/1b54758b-5730-41b8-8051-2197862028cb_300sq",
+                    "dateCreated": "2009-06-04 21:41:54",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/BIHSbrDFnVA/the-city-of-hate/",
+                        "permalink": "http://www.nextstop.com/guide/BIHSbrDFnVA/the-city-of-hate/",
+                        "name": "THE CITY OF HATE"
+                    },
+                    "originalImageSource": "http://www.agreatertown.com/dallas_tx",
+                    "shortText": "kinda dive-y, but seriously some of the best tex-mex in Dallas. Veggie Fajitas are retarded, same with the fajita salad. ",
+                    "originalImageUrl": "http://www.agreatertown.com/post_images/restaurant.com/thumbnail.322996.jpg"
+                }
+            }
+        },
+        {
+            "website": "",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/7pLPPKLgg60/dallas-market-center/",
+            "name": "Dallas Market Center",
+            "category": "what-to-do",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/7pLPPKLgg60/dallas-market-center/",
+            "phone": "(800) 325-6587",
+            "address": "MS 182, 2100 North Stemmons Freeway",
+            "lat": 32.801765000000003,
+            "lng": -96.824872999999997,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 1,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/H1ySRabsiwo.png",
+                    "permalink": "http://www.nextstop.com/p/7pLPPKLgg60/dallas-market-center/?card=H1ySRabsiwo&",
+                    "name": "Dallas Market Center",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "EmilyGifford",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_pJ4oZs6jvd4_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/pJ4oZs6jvd4/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/ed20d6b5-5381-440d-9d28-253be3d11059_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/ed20d6b5-5381-440d-9d28-253be3d11059_300sq",
+                    "dateCreated": "2009-11-11 02:46:01",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/aoLoKLIeItA/not-so-distant-future/",
+                        "permalink": "http://www.nextstop.com/guide/aoLoKLIeItA/not-so-distant-future/",
+                        "name": "Not So Distant Future"
+                    },
+                    "originalImageSource": "http://www.texasstartupblog.com/2008/02/20/coworking-the-infomart/",
+                    "shortText": "One of many Dallas locations used for \"Logan's Run,\" a mid-1970s sci-fi thriller.",
+                    "originalImageUrl": "http://farm1.static.flickr.com/15/69777982_e63ad781cd.jpg"
+                }
+            }
+        },
+        {
+            "website": "http://www.itsagrind.com/",
+            "locationName": "Dallas",
+            "permalink": "http://www.nextstop.com/p/f8kx2a4MuUg/its-a-grind/",
+            "name": "It's a Grind",
+            "category": "where-to-eat",
+            "geoAccuracy": "point",
+            "apiEndpoint": "http://api.nextstop.com/p/f8kx2a4MuUg/its-a-grind/",
+            "phone": "(214) 954-7109",
+            "address": "2901 Indiana Blvd",
+            "lat": 32.785561000000001,
+            "lng": -96.781932999999995,
+            "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+            "recommendationsInfo": {
+                "count": 1,
+                "bestRecommendation": {
+                    "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/N5FX831txaM.png",
+                    "permalink": "http://www.nextstop.com/p/f8kx2a4MuUg/its-a-grind/?card=N5FX831txaM&",
+                    "name": "It's a Grind Coffee",
+                    "authorInfo": {
+                        "role": "owner",
+                        "authorName": "laughingcat",
+                        "authorPhotoUrl": "http://images.nextstop.com/profilepic_SA1Jn_7II6s_nearexpires_80sq",
+                        "authorUrl": "http://www.nextstop.com/profile/laughingcat/"
+                    },
+                    "smallCachedImageUrl": "http://images.nextstop.com/35aba038-b88b-41f4-8998-1a03ae9493c6_150sq",
+                    "largeCachedImageUrl": "http://images.nextstop.com/35aba038-b88b-41f4-8998-1a03ae9493c6_300sq",
+                    "dateCreated": "2009-07-09 20:16:03",
+                    "onGuide": {
+                        "apiEndpoint": "http://api.nextstop.com/guide/iVMjfoH35Zw/big-dlicious-coffee/",
+                        "permalink": "http://www.nextstop.com/guide/iVMjfoH35Zw/big-dlicious-coffee/",
+                        "name": "big D...licious coffee"
+                    },
+                    "originalImageSource": "http://flickr.com/photos/57346320@N00/3141266573",
+                    "shortText": "granola parfait/a tiny bit corporate, but owners and investors are still idealistic and seem to not have crossed over to the dark side/nice jazz motif",
+                    "originalImageUrl": "http://farm4.static.flickr.com/3081/3141266573_24bed91d3a.jpg?v=0"
+                }
+            }
+        }],
+        "resultsInfo": {
+            "categoryCounts": {
+                "shop-browse": 6,
+                "eat-drink": 99,
+                "do-explore": 85,
+                "any": 2,
+                "stay-sleep": 5
+            },
+            "locationCounts": {
+                "YXkivhP9Xos": 1,
+                "gp2qooCECTA": 1,
+                "Kcpo6WlIGIU": 6,
+                "xZm4hp3McIs": 2,
+                "IKb7hABa2og": 1,
+                "jHy8gOZKLwg": 2,
+                "Py8ajiX86hI": "100+",
+                "Q5j5wTT0NHg": 1,
+                "FwI3Os9vgo8": 3,
+                "5BTwNuwFXMs": 21,
+                "zYqz1ptKK70": 1,
+                "9xxKKiD1hR4": 6,
+                "hXkFe7xMRek": 5,
+                "ulwu4bmQeFk": "100+",
+                "uqrC8r1yDRQ": 1,
+                "aHuQTQlP5mc": 27,
+                "YQ6aAEgH6PE": 1,
+                "Zb7fmBiqj2w": 1,
+                "XgdczFbGc_U": 4,
+                "_NXQnzHLB2I": 9,
+                "A4nP9exFegM": "100+",
+                "KJjE-IP7HC8": 3,
+                "gMcze78yimc": "100+",
+                "DRbMpNJXDJo": 11,
+                "WJAvGKGLpoU": 1,
+                "vsnSaILR72Q": 2,
+                "FYysGJPgp2U": 1,
+                "b3ep0s0TBEk": 4,
+                "nWP1hb-YI0M": 2,
+                "PZlE_Yho_60": 1,
+                "V6R4zdRiWgk": 6,
+                "yBphWRdyO0M": 18,
+                "j2yJNO184HI": 1,
+                "FcShuyWNZao": 1,
+                "rUsKGsPEKDY": 1,
+                "JVNB6wBGCkE": 10,
+                "ec90_qoK-nI": "100+",
+                "ljVXTK-E0hk": 1,
+                "_8lz8Ef6xZk": 1,
+                "2udKUTU0MlA": 5,
+                "Oi7k_jjD7jQ": 13,
+                "aAw1d49DdHk": 4,
+                "A6n_gEFLfiM": 5,
+                "p_UeHVCo3Dg": 2,
+                "gftXXSaFPTM": 2,
+                "zmENdp5yviE": 2,
+                "dj-iW3Cxc5c": 1,
+                "nWv8oqCPaCg": 6,
+                "zYInt6oeZUI": 1,
+                "GAHKdu_C_vk": 1
+            }
+        }
+    }
+}

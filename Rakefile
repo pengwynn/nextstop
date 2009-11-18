@@ -5,12 +5,20 @@ begin
   require 'jeweler'
   Jeweler::Tasks.new do |gem|
     gem.name = "nextstop"
-    gem.summary = %Q{TODO: one-line summary of your gem}
-    gem.description = %Q{TODO: longer description of your gem}
-    gem.email = "wynn@squeejee.com"
+    gem.summary = %Q{Ruby wrapper for the nextstop API}
+    gem.description = %Q{Find cool places and destination guides with the nextstop API}
+    gem.email = "wynn.netherland@gmail.com"
     gem.homepage = "http://github.com/pengwynn/nextstop"
     gem.authors = ["Wynn Netherland"]
-    gem.add_development_dependency "thoughtbot-shoulda", ">= 0"
+    
+    gem.add_dependency('hashie', '~> 0.1.3')
+    gem.add_dependency('httparty', '~> 0.4.3')
+    gem.add_dependency('activesupport', '~> 2.3.2')
+
+    gem.add_development_dependency('thoughtbot-shoulda', '>= 2.10.1')
+    gem.add_development_dependency('jnunemaker-matchy', '0.4.0')
+    gem.add_development_dependency('mocha', '0.9.4')
+    gem.add_development_dependency('fakeweb', '>= 1.2.5')
     # gem is a Gem::Specification... see http://www.rubygems.org/read/chapter/20 for additional settings
   end
   Jeweler::GemcutterTasks.new

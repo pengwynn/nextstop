@@ -1,0 +1,352 @@
+{
+    "status": 200,
+    "message": "",
+    "data": {
+        "guideCoverImageUrl": "http://www.nextstop.com/widget/i/minilisticon/nzp9KFPK4ok.png",
+        "permalink": "http://www.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+        "guideContent": {
+            "count": 8,
+            "places": [{
+                "website": "",
+                "locationName": "Dallas",
+                "permalink": "http://www.nextstop.com/p/uykb-HM6hSo/dallas-zoo/",
+                "name": "Dallas Zoo",
+                "category": "what-to-do",
+                "geoAccuracy": "point",
+                "apiEndpoint": "http://api.nextstop.com/p/uykb-HM6hSo/dallas-zoo/",
+                "phone": "(214) 670-5656",
+                "address": "621 E Clarendon Dr",
+                "lat": 32.739260000000002,
+                "lng": -96.815138000000005,
+                "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+                "recommendationsInfo": {
+                    "count": 2,
+                    "guideRecommendation": {
+                        "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/Z9FUOD_PfTo.png",
+                        "permalink": "http://www.nextstop.com/p/uykb-HM6hSo/dallas-zoo/?card=Z9FUOD_PfTo&",
+                        "name": "Dallas Zoo",
+                        "authorInfo": {
+                            "role": "owner",
+                            "authorName": "AliciaLakey",
+                            "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                            "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+                        },
+                        "smallCachedImageUrl": "http://images.nextstop.com/5be2bc93-0755-4f20-8ab3-4d555980321c_150sq",
+                        "largeCachedImageUrl": "http://images.nextstop.com/5be2bc93-0755-4f20-8ab3-4d555980321c_300sq",
+                        "dateCreated": "2009-06-28 12:01:22",
+                        "onGuide": {
+                            "apiEndpoint": "http://api.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "permalink": "http://www.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "name": "Alicia's Favorites in the DFW Metroplex"
+                        },
+                        "originalImageSource": "http://www.planetware.com/picture/dallas-dallas-zoo-us-tx195.htm",
+                        "originalImageUrl": "http://www.planetware.com/i/photo/dallas-zoo-dallas-tx195.jpg",
+                        "shortText": "I love Zoos! This one's a good aerobic workout because it's built on rolling terrain.",
+                        "fullText": "I love Zoos! This one's a good aerobic workout because it's built on rolling terrain."
+                    }
+                }
+            },
+            {
+                "website": "",
+                "locationName": "Dallas",
+                "permalink": "http://www.nextstop.com/p/sDpHsNtgs4c/dallas-world-aquarium/",
+                "name": "Dallas World Aquarium",
+                "category": "what-to-do",
+                "geoAccuracy": "point",
+                "apiEndpoint": "http://api.nextstop.com/p/sDpHsNtgs4c/dallas-world-aquarium/",
+                "phone": "(214) 720-1801",
+                "address": "1801 N Griffin St",
+                "lat": 32.783295000000003,
+                "lng": -96.805195999999995,
+                "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+                "recommendationsInfo": {
+                    "count": 6,
+                    "guideRecommendation": {
+                        "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/eszrMyPPx_g.png",
+                        "permalink": "http://www.nextstop.com/p/sDpHsNtgs4c/dallas-world-aquarium/?card=eszrMyPPx_g&",
+                        "name": "Dallas World Aquarium",
+                        "authorInfo": {
+                            "role": "owner",
+                            "authorName": "AliciaLakey",
+                            "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                            "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+                        },
+                        "smallCachedImageUrl": "http://images.nextstop.com/45f78fe0-d16b-40c4-90a6-2b4553520aaa_150sq",
+                        "largeCachedImageUrl": "http://images.nextstop.com/45f78fe0-d16b-40c4-90a6-2b4553520aaa_300sq",
+                        "dateCreated": "2009-06-28 12:04:37",
+                        "onGuide": {
+                            "apiEndpoint": "http://api.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "permalink": "http://www.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "name": "Alicia's Favorites in the DFW Metroplex"
+                        },
+                        "originalImageSource": "http://www.flickr.com/photos/branditressler/2623711888/",
+                        "originalImageUrl": "http://farm4.static.flickr.com/3155/2623711888_44c1805b3b.jpg",
+                        "shortText": "You walk in and hear many exotic bird calls. It feels like you're stepping into a rainforest, but it has all this amazing fauna & flora from around the world: p",
+                        "fullText": "You walk in and hear many exotic bird calls. It feels like you're stepping into a rainforest, but it has all this amazing fauna & flora from around the world: penguins, sharks, seahorses, toucans, etc. The restaurant's cool too. You get to eat different foods from around the world. A lovely gem!"
+                    }
+                }
+            },
+            {
+                "website": "",
+                "locationName": "Dallas",
+                "permalink": "http://www.nextstop.com/p/TWnmxJevzzQ/fair-park/",
+                "name": "Fair Park",
+                "category": "what-to-do",
+                "geoAccuracy": "point",
+                "apiEndpoint": "http://api.nextstop.com/p/TWnmxJevzzQ/fair-park/",
+                "phone": "(214) 670-8400",
+                "address": "1300 Robert B Cullum Blvd",
+                "lat": 32.776190999999997,
+                "lng": -96.764415999999997,
+                "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+                "recommendationsInfo": {
+                    "count": 1,
+                    "guideRecommendation": {
+                        "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/5dgeODGq9Ck.png",
+                        "permalink": "http://www.nextstop.com/p/TWnmxJevzzQ/fair-park/?card=5dgeODGq9Ck&",
+                        "name": "Fair Park",
+                        "authorInfo": {
+                            "role": "owner",
+                            "authorName": "AliciaLakey",
+                            "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                            "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+                        },
+                        "smallCachedImageUrl": "http://images.nextstop.com/a239970c-e598-4e2d-9c85-653cf1313c64_150sq",
+                        "largeCachedImageUrl": "http://images.nextstop.com/a239970c-e598-4e2d-9c85-653cf1313c64_300sq",
+                        "dateCreated": "2009-06-28 12:09:05",
+                        "onGuide": {
+                            "apiEndpoint": "http://api.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "permalink": "http://www.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "name": "Alicia's Favorites in the DFW Metroplex"
+                        },
+                        "originalImageSource": "http://www.flickr.com/photos/stephl/265763848/",
+                        "originalImageUrl": "http://farm1.static.flickr.com/97/265763848_9bd50f8394.jpg",
+                        "shortText": "In addition to the annual State Fair, there are museums too! I just learned that this place has the largest collection of Art Deco period buildings in the USA!",
+                        "fullText": "In addition to the annual State Fair, there are museums too! I just learned that this place has the largest collection of Art Deco period buildings in the USA!"
+                    }
+                }
+            },
+            {
+                "website": "",
+                "locationName": "Dallas",
+                "permalink": "http://www.nextstop.com/p/iJyKp94Wm40/dallas-museum-of-art/",
+                "name": "Dallas Museum of Art",
+                "category": "what-to-do",
+                "geoAccuracy": "point",
+                "apiEndpoint": "http://api.nextstop.com/p/iJyKp94Wm40/dallas-museum-of-art/",
+                "phone": "(214) 922-1200",
+                "address": "1717 N. Harwood St.",
+                "lat": 32.787275000000001,
+                "lng": -96.800212000000002,
+                "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+                "recommendationsInfo": {
+                    "count": 2,
+                    "guideRecommendation": {
+                        "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/0uawuzGAKzc.png",
+                        "permalink": "http://www.nextstop.com/p/iJyKp94Wm40/dallas-museum-of-art/?card=0uawuzGAKzc&",
+                        "name": "Dallas Museum of Art",
+                        "authorInfo": {
+                            "role": "owner",
+                            "authorName": "AliciaLakey",
+                            "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                            "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+                        },
+                        "smallCachedImageUrl": "http://images.nextstop.com/f9d89185-4918-44a3-b2fe-98dcdc6e1d64_150sq",
+                        "largeCachedImageUrl": "http://images.nextstop.com/f9d89185-4918-44a3-b2fe-98dcdc6e1d64_300sq",
+                        "dateCreated": "2009-06-28 12:13:17",
+                        "onGuide": {
+                            "apiEndpoint": "http://api.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "permalink": "http://www.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "name": "Alicia's Favorites in the DFW Metroplex"
+                        },
+                        "originalImageSource": "http://blog.newsok.com/bamsblog/2009/03/27/getting-artsy-in-dallas/",
+                        "originalImageUrl": "http://blog.newsok.com/bamsblog/files/2009/03/dallas-museum-king-tut.jpg",
+                        "shortText": "I love Museums! I also like the collections permanently housed here & the ever-changing galleries. I've seen some beautiful things here; most recently the King ",
+                        "fullText": "I love Museums! I also like the collections permanently housed here & the ever-changing galleries. I've seen some beautiful things here; most recently the King Tut exhibit. It was awesome!"
+                    }
+                }
+            },
+            {
+                "website": "",
+                "locationName": "Fort Worth",
+                "permalink": "http://www.nextstop.com/p/tk0WRmVo0uU/fort-worth-botanic-garden/",
+                "name": "Fort Worth Botanic Garden",
+                "category": "what-to-do",
+                "geoAccuracy": "point",
+                "apiEndpoint": "http://api.nextstop.com/p/tk0WRmVo0uU/fort-worth-botanic-garden/",
+                "phone": "(817) 871-7686",
+                "address": "3220 Botanic Garden Blvd",
+                "lat": 32.740473000000001,
+                "lng": -97.362658999999994,
+                "locationUrl": "http://www.nextstop.com/loc/jHy8gOZKLwg/fort-worth/",
+                "recommendationsInfo": {
+                    "count": 8,
+                    "guideRecommendation": {
+                        "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/zV1sqra558k.png",
+                        "permalink": "http://www.nextstop.com/p/tk0WRmVo0uU/fort-worth-botanic-garden/?card=zV1sqra558k&",
+                        "name": "Fort Worth Botanic Garden",
+                        "authorInfo": {
+                            "role": "owner",
+                            "authorName": "AliciaLakey",
+                            "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                            "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+                        },
+                        "smallCachedImageUrl": "http://images.nextstop.com/861bed2e-8657-4838-8f3c-cbe593e3476f_150sq",
+                        "largeCachedImageUrl": "http://images.nextstop.com/861bed2e-8657-4838-8f3c-cbe593e3476f_300sq",
+                        "dateCreated": "2009-06-28 12:17:53",
+                        "onGuide": {
+                            "apiEndpoint": "http://api.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "permalink": "http://www.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "name": "Alicia's Favorites in the DFW Metroplex"
+                        },
+                        "originalImageSource": "http://flickr.com/photos/diorama_sky/78243288/",
+                        "originalImageUrl": "http://farm1.static.flickr.com/43/78243288_09fac32e59.jpg?v=0",
+                        "shortText": "Lovely garden grounds--world-class. There's seem to be a hint of an Asian theme throughout. In fact, one of my favorite sections is the Japanese Sand Garden.  L",
+                        "fullText": "Lovely garden grounds--world-class. There's seem to be a hint of an Asian theme throughout. In fact, one of my favorite sections is the Japanese Sand Garden.  Lots of lovely Koi ponds too."
+                    }
+                }
+            },
+            {
+                "website": "",
+                "locationName": "Fort Worth",
+                "permalink": "http://www.nextstop.com/p/LgEWkoyT04M/kimbell-art-museum/",
+                "name": "Kimbell Art Museum",
+                "category": "what-to-do",
+                "geoAccuracy": "point",
+                "apiEndpoint": "http://api.nextstop.com/p/LgEWkoyT04M/kimbell-art-museum/",
+                "phone": "(817) 332-8451",
+                "address": "3333 Camp Bowie Blvd",
+                "lat": 32.749675000000003,
+                "lng": -97.365029000000007,
+                "locationUrl": "http://www.nextstop.com/loc/jHy8gOZKLwg/fort-worth/",
+                "recommendationsInfo": {
+                    "count": 5,
+                    "guideRecommendation": {
+                        "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/ibPRnB2gXrY.png",
+                        "permalink": "http://www.nextstop.com/p/LgEWkoyT04M/kimbell-art-museum/?card=ibPRnB2gXrY&",
+                        "name": "Kimbell Art Museum",
+                        "authorInfo": {
+                            "role": "owner",
+                            "authorName": "AliciaLakey",
+                            "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                            "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+                        },
+                        "smallCachedImageUrl": "http://images.nextstop.com/fdbbceaa-d2f9-4836-92d2-7fd34f39f35a_150sq",
+                        "largeCachedImageUrl": "http://images.nextstop.com/fdbbceaa-d2f9-4836-92d2-7fd34f39f35a_300sq",
+                        "dateCreated": "2009-06-28 12:21:16",
+                        "onGuide": {
+                            "apiEndpoint": "http://api.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "permalink": "http://www.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "name": "Alicia's Favorites in the DFW Metroplex"
+                        },
+                        "originalImageSource": "http://www.flickr.com/photos/25831000@N08/2431636895/",
+                        "originalImageUrl": "http://farm3.static.flickr.com/2038/2431636895_a50b196b70.jpg",
+                        "shortText": "The Museum itself is a work of art! World-Class! And then there are numerous & lovely collections that I enjoyed seeing. I had a great experience there & can't ",
+                        "fullText": "The Museum itself is a work of art! World-Class! And then there are numerous & lovely collections that I enjoyed seeing. I had a great experience there & can't wait to revisit."
+                    }
+                }
+            },
+            {
+                "website": "http://www.themodern.org/",
+                "locationName": "Fort Worth",
+                "permalink": "http://www.nextstop.com/p/JzPugIY2j-Y/modern-art-museum-fort-worth/",
+                "name": "Modern Art Museum-Fort Worth",
+                "category": "what-to-do",
+                "geoAccuracy": "point",
+                "apiEndpoint": "http://api.nextstop.com/p/JzPugIY2j-Y/modern-art-museum-fort-worth/",
+                "phone": "(817) 738-9215",
+                "address": "3200 Darnell St",
+                "lat": 32.749519999999997,
+                "lng": -97.363151999999999,
+                "locationUrl": "http://www.nextstop.com/loc/jHy8gOZKLwg/fort-worth/",
+                "recommendationsInfo": {
+                    "count": 4,
+                    "guideRecommendation": {
+                        "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/U-DalZTS-Xg.png",
+                        "permalink": "http://www.nextstop.com/p/JzPugIY2j-Y/modern-art-museum-fort-worth/?card=U-DalZTS-Xg&",
+                        "name": "Modern Art Museum-Fort Worth",
+                        "authorInfo": {
+                            "role": "owner",
+                            "authorName": "AliciaLakey",
+                            "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                            "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+                        },
+                        "smallCachedImageUrl": "http://images.nextstop.com/9d231818-28c1-4fc4-b4d1-6bd46d13ead9_150sq",
+                        "largeCachedImageUrl": "http://images.nextstop.com/9d231818-28c1-4fc4-b4d1-6bd46d13ead9_300sq",
+                        "dateCreated": "2009-06-28 12:28:26",
+                        "onGuide": {
+                            "apiEndpoint": "http://api.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "permalink": "http://www.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "name": "Alicia's Favorites in the DFW Metroplex"
+                        },
+                        "originalImageSource": "http://www.myspace.com/headlightsforeyes",
+                        "originalImageUrl": "http://i61.photobucket.com/albums/h65/brianb80/ModernArtMuseumofFortWorth1.jpg",
+                        "shortText": "Across from the Kimball Museum; both Museums' collections are a treat for the eye and phantasmagorical.",
+                        "fullText": "Across from the Kimball Museum; both Museums' collections are a treat for the eye and phantasmagorical."
+                    }
+                }
+            },
+            {
+                "website": "",
+                "locationName": "Dallas",
+                "permalink": "http://www.nextstop.com/p/X6YBesgo6hg/south-dallas-cultural-center/",
+                "name": "South Dallas Cultural Center",
+                "category": "what-to-do",
+                "geoAccuracy": "point",
+                "apiEndpoint": "http://api.nextstop.com/p/X6YBesgo6hg/south-dallas-cultural-center/",
+                "phone": "(214) 939-2787",
+                "address": "3400 S Fitzhugh Ave",
+                "lat": 32.771473,
+                "lng": -96.757773,
+                "locationUrl": "http://www.nextstop.com/loc/ulwu4bmQeFk/dallas/",
+                "recommendationsInfo": {
+                    "count": 1,
+                    "guideRecommendation": {
+                        "cardImageUrl": "http://www.nextstop.com/widget/i/minicard/1RMFMHV9syk.png",
+                        "permalink": "http://www.nextstop.com/p/X6YBesgo6hg/south-dallas-cultural-center/?card=1RMFMHV9syk&",
+                        "name": "South Dallas Cultural Center",
+                        "authorInfo": {
+                            "role": "owner",
+                            "authorName": "AliciaLakey",
+                            "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                            "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+                        },
+                        "smallCachedImageUrl": "http://images.nextstop.com/de2499b5-875c-499e-8cff-68219234b1a4_150sq",
+                        "largeCachedImageUrl": "http://images.nextstop.com/de2499b5-875c-499e-8cff-68219234b1a4_300sq",
+                        "dateCreated": "2009-06-28 12:34:55",
+                        "onGuide": {
+                            "apiEndpoint": "http://api.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "permalink": "http://www.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+                            "name": "Alicia's Favorites in the DFW Metroplex"
+                        },
+                        "originalImageSource": "http://www.soulofamerica.com/cultural-sites-us.phtml",
+                        "originalImageUrl": "http://www.soulofamerica.com/phpwcms/picture/upload/Image/us_cities/Dal_SDCC_mural_night.jpg",
+                        "shortText": "Unique place - part museum, library, art gallery; dance/music studio; poetry stage; movie theater; photo lab and mixed-media classrooms. A great heritage place ",
+                        "fullText": "Unique place - part museum, library, art gallery; dance/music studio; poetry stage; movie theater; photo lab and mixed-media classrooms. A great heritage place for families to explore."
+                    }
+                }
+            }]
+        },
+        "name": "Alicia's Favorites in the DFW Metroplex",
+        "authorInfo": {
+            "count": 1,
+            "authorList": [{
+                "role": "owner",
+                "authorName": "AliciaLakey",
+                "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+            }],
+            "primaryAuthor": {
+                "role": "owner",
+                "authorName": "AliciaLakey",
+                "authorPhotoUrl": "http://images.nextstop.com/profilepic_ikNKbK2gsXM_nearexpires_80sq",
+                "authorUrl": "http://www.nextstop.com/profile/ikNKbK2gsXM/"
+            }
+        },
+        "lastUpdated": "2009-06-28 12:38:19",
+        "apiEndpoint": "http://api.nextstop.com/guide/nzp9KFPK4ok/alicias-favorites-in-the-dfw-metroplex/",
+        "locationUrl": "http://www.nextstop.com/loc/gMcze78yimc/texas/",
+        "locationName": "Texas",
+        "description": "I work in Dallas, but live in Garland. The DFW area is a huge spread of diversity w/ many gems to explore!"
+    }
+}
