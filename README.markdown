@@ -4,26 +4,26 @@ nextstop is a community effort to build a catalog of all the best things to do, 
 
 ## Installation
 
-  sudo gem install gemcutter
-  gem tumble
+    sudo gem install gemcutter
+    gem tumble
   
-  sudo gem install nextstop
+    sudo gem install nextstop
   
   
 ## Usage
 
 You'll need to start by obtaining an [API key](http://www.nextstop.com/api/get_key/)
   
-  # init the nextstop client with your api key
-  nextstop = Nextstop.new('OU812')
+    # init the nextstop client with your api key
+    nextstop = Nextstop.new('OU812')
   
-  nextstop.search_guides(:q => 'Dallas')
+    nextstop.search_guides(:q => 'Dallas')
   
-  nextstop.search_places(:q => 'Dallas')
+    nextstop.search_places(:q => 'Dallas')
   
-  nextstop.guide('nzp9KFPK4ok')
+    nextstop.guide('nzp9KFPK4ok')
   
-  nextstop.place('kgOslXII8bo')
+    nextstop.place('kgOslXII8bo')
   
 Check the [API Docs](http://www.nextstop.com/api/docs/) for a full list of options for each method
 
